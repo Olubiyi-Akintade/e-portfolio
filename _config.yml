@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
+title: Olubiyi Akintade # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  This e-Portfolio is based on my work on MSc Data Science, University of Essex. 
+  I have prviously carried out research works on the development of cyber-physical 
+  systems and IoT applications. This essentially means that I have mostly worked at 
+  the data generation stage of the data management lifecycle. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://scholar.google.com/citations?user=9cy2hdYAAAAJ&hl=en">View My Publications</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
